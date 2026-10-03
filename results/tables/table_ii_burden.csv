@@ -1,0 +1,5 @@
+stain,n_nonnull,n_zero,median_pct,min_pct,max_pct
+Amyloid-β,87,0,0.1606,0.0001,0.9512
+Tau,87,1,0.5114,0.0,2.9608
+α-synuclein,87,5,0.0168,0.0,3.2009
+TDP-43,85,4,0.0165,0.0,2.0836
